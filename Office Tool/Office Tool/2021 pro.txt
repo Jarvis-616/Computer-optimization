@@ -1,0 +1,1 @@
+ospp /insLicID ProPlus2021Volume /sethst:kms.coolhub.top /setprt:1688 /act
